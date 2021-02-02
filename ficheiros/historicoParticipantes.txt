@@ -1,0 +1,4 @@
+4;ricardo dias;25
+3;Joao Sencadas;25
+2;Hugo Cardoso;50
+1;Ruben Jose Pereira;50
